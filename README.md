@@ -17,4 +17,4 @@ A simple implementation of the classic Tic Tac Toe game. Built using HTML, CSS, 
 
 ## 🚀 How to Run
 
-[Click to view the game]()
+[Click to view the game](https://shubham-220305.github.io/TICTACTOE/)
